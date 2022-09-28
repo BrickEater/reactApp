@@ -13,6 +13,7 @@ Inspecting the Starter Code
 Passing Data Through Props
 Making an Interactive Component
 Developer Tools
+^^^^^^^^^^^^^^^^^^^^^^^^^^^ DONE
 Completing the Game
 Lifting State Up
 Why Immutability Is Important
