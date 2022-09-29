@@ -16,6 +16,10 @@ Developer Tools
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^ DONE
 Completing the Game
 Lifting State Up
+^^^^^^^^^^^^^^^^^^^^^^^^^^^ DONE - A bit confusing but I think I understand the general idea.
+
+
+
 Why Immutability Is Important
 Function Components
 Taking Turns
