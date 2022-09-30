@@ -18,12 +18,11 @@ Completing the Game
 Lifting State Up
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^ DONE - A bit confusing but I think I understand the general idea.
 
-
-
 Why Immutability Is Important
 Function Components
 Taking Turns
 Declaring a Winner
+^^^^^^^^^^^^^^^^^^^^^^^^^^^ DONE - Finished a functional game
 Adding Time Travel
 Storing a History of Moves
 Lifting State Up, Again
